@@ -1,0 +1,7 @@
+C:\TallerII\tl2-tp7-2025-Marisol-Figueroa\obj\Debug\net8.0\tl2-tp7-2025-Marisol-Figueroa.csproj.AssemblyReference.cache
+C:\TallerII\tl2-tp7-2025-Marisol-Figueroa\obj\Debug\net8.0\tl2-tp7-2025-Marisol-Figueroa.GeneratedMSBuildEditorConfig.editorconfig
+C:\TallerII\tl2-tp7-2025-Marisol-Figueroa\obj\Debug\net8.0\tl2-tp7-2025-Marisol-Figueroa.AssemblyInfoInputs.cache
+C:\TallerII\tl2-tp7-2025-Marisol-Figueroa\obj\Debug\net8.0\tl2-tp7-2025-Marisol-Figueroa.AssemblyInfo.cs
+C:\TallerII\tl2-tp7-2025-Marisol-Figueroa\obj\Debug\net8.0\tl2-tp7-2025-Marisol-Figueroa.csproj.CoreCompileInputs.cache
+C:\TallerII\tl2-tp7-2025-Marisol-Figueroa\obj\Debug\net8.0\tl2-tp7-2025-Marisol-Figueroa.MvcApplicationPartsAssemblyInfo.cs
+C:\TallerII\tl2-tp7-2025-Marisol-Figueroa\obj\Debug\net8.0\tl2-tp7-2025-Marisol-Figueroa.MvcApplicationPartsAssemblyInfo.cache
