@@ -1,8 +1,8 @@
-namespace tl2_tp7_2025_TuNombre.Models;
+namespace tl2_tp7_2025.Models;
 
 public class Producto
 {
     public int idProducto { get; set; }
-    public string Descripcion { get; set; }
-    public int Precio { get; set; }
+    public string descripcion { get; set; }= "";
+    public int precio { get; set; }
 }

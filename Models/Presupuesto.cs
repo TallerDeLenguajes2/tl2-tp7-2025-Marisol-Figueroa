@@ -1,15 +1,15 @@
-namespace tl2_tp7_2025_TuNombre.Models;
+namespace tl2_tp7_2025.Models;
 
-public class Presupuestos
+public class Presupuesto
 {
-    public int idPresupuesto { get; set; }
-    public string? NombreDestinatario { get; set; }
+    public int IdPresupuesto { get; set; }
+    public string nombreDestinatario { get; set; } = "";
     public DateTime FechaCreacion { get; set; }
     public List<PresupuestoDetalle> detalle { get; set; } = new();
 
     public double MontoPresupuesto()
     {
-        return detalle.Sum(d => d.producto.Precio * d.cantidad);
+        return detalle.Sum(d => d.producto.precio * d.cantidad);
     }
 
     public double MontoPresupuestoConIva()
